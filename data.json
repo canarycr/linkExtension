@@ -1,0 +1,12 @@
+
+{
+    "usa": {
+      "cities": ["New York", "Los Angeles", "Chicago", "Houston", "Phoenix"],
+      "links" : ["www.google.com","demo2.com","demo3.com","demo4.com","demo5.com"]
+    },
+    "uk": {
+      "cities": ["London", "Manchester", "Birmingham", "Glasgow", "Liverpool"],
+      "links" : ["demo1.com","demo2.com","demo3.com","demo4.com","demo5.com"]
+    }
+}
+  
